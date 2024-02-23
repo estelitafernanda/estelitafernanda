@@ -9,7 +9,7 @@
 
 ## Statistics 📊
 
-<div>
+<div align="center">
   <a href="https://github.com/estelitafernanda">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estelitafernanda&theme=radical">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=estelitafernanda&show_icons=true&theme=radical">
@@ -34,6 +34,6 @@
 
 ##
 
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=estelitafernanda&label=Profile%20views&color=fe428e&style=background:#3630a3;color:white;">
 </div>
