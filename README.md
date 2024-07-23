@@ -3,7 +3,7 @@
 
 <div>
   <p>★ Eu sou Estelita Fernanda;</p>
-  <p>★ Tenho 18 anos;</p>
+  <p>★ Tenho 19 anos;</p>
   <p>★ Atualmente estou cursando o 3° período de Análise e Desenvolvimento de Sistemas na UFRN;</p>
 </div>
 
