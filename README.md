@@ -31,7 +31,7 @@
   <img height="50cm" src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465">
   <img height="50cm" src="https://camo.githubusercontent.com/879e035de5515b8a913361f4b3c84927540232993db8fbd906bdc1f81f98c19d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373">
   <img height="50cm" src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562">
-  <img height="50cm" src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
+  <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg">
 </div>
