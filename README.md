@@ -25,7 +25,7 @@
    <img height="50cm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img height="50cm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
    <img height="50cm" src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
-   <img height="60cm" src="https://static.vecteezy.com/system/resources/thumbnails/020/975/579/small/wordpress-logo-wordpress-icon-transparent-free-png.png">
+   <img height="60cm" src="https://camo.githubusercontent.com/879e035de5515b8a913361f4b3c84927540232993db8fbd906bdc1f81f98c19d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373">
  </div>
 
     
