@@ -24,6 +24,7 @@
    <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
    <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
    <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
  </div>
 
 ## Tools 🧰
