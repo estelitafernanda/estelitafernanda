@@ -30,7 +30,8 @@
 <div style="display: inline_block"><br>
   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
-  <img height="50cm" src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562">
+  <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+  <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg">
