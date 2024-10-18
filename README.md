@@ -2,9 +2,9 @@
 ##
 
 <div>
-  <p>★ Eu sou Estelita Fernanda;</p>
-  <p>★ Tenho 19 anos;</p>
-  <p>★ Atualmente estou cursando o 4° período de Análise e Desenvolvimento de Sistemas na UFRN;</p>
+  <p>★ I'm Estelita Fernanda;</p>
+  <p>★ I'm 19 years old;</p>
+  <p>★ I am currently studying the 4th period of Systems Analysis and Development at UFRN;</p>
 </div>
 
 ## Statistics 📊
