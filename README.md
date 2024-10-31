@@ -26,6 +26,7 @@
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
+   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
  </div>
 
 ## Tools 🧰
