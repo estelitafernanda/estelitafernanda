@@ -35,7 +35,6 @@
   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-  <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg">
