@@ -30,6 +30,8 @@
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
+   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+   
  </div>
 
 ## Tools 🧰
