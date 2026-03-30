@@ -12,6 +12,7 @@
   <a href="https://github.com/estelitafernanda">
     <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=estelitafernanda&show_icons=true&theme=midnight-purple&count_private=true">
     <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=estelitafernanda&layout=compact&langs_count=8&theme=midnight-purple&count_private=true">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=estelitafernanda&theme=midnight-purple&border_radius=12">
   </a>
 </div>
     
