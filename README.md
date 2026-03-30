@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/estelitafernanda">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estelitafernanda&theme=radical">
-    <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=estelitafernanda&layout=compact&langs_count=8&theme=dracula&count_private=true">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estelitafernanda&theme=midnight-purple">
+    <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=estelitafernanda&layout=compact&langs_count=8&theme=midnight-purple&count_private=true">
 </div>
     
 ## Skills 👩‍💻
