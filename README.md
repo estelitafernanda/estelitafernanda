@@ -58,5 +58,5 @@
 ##
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=estelitafernanda&label=Profile%20views&color=fe428e&style=background:#3630a3;color:white;">
+  <img src="https://komarev.com/ghpvc/?username=estelitafernanda&label=Profile%20views&color=7f3ace&style=background:#3630a3;color:white;">
 </div>
