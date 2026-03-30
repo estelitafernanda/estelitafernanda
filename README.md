@@ -31,6 +31,7 @@
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
    
  </div>
 
