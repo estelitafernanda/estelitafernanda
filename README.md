@@ -4,7 +4,6 @@
 <div>
   <p>★ I'm Estelita Fernanda;</p>
   <p>★ I'm 20 years old;</p>
-  <p>★ I am currently studying the 5th period of Systems Analysis and Development at UFRN;</p>
 </div>
 
 ## Statistics 📊
@@ -31,6 +30,7 @@
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+   <img heigth="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
    
  </div>
 
