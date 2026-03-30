@@ -1,4 +1,4 @@
-![Estelita](https://readme-typing-svg.herokuapp.com/?color=#7f3ace&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Estelita+Fernanda;I'm+Brazilian;I'm+a+student+of+Analysis+and+Systems+Development;Be+Welcome!🌟)
+![Estelita](https://readme-typing-svg.herokuapp.com/?color=7f3ace&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Estelita+Fernanda;I'm+Brazilian;I'm+a+student+of+Analysis+and+Systems+Development;Be+Welcome!🌟)
 ##
 
 <div>
