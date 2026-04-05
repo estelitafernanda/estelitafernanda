@@ -19,7 +19,6 @@
 ## Skills 👩‍💻
  <div style="display: inline_block"><br>
    <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
-   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
    <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg">
    <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
    <img height="50cm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
@@ -28,8 +27,6 @@
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
-   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-   <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
    <img height="50cm" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
